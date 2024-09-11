@@ -9,7 +9,7 @@ if(num.isnumeric()):
 else:
     print("Nice try! That's not a number, but did you enter: " + num + "?")
 
-print("I must've just gotten a luck guess!")
+print("I must've just gotten a lucky guess!")
 print("Just kidding, this program is being uploaded for the purpose of learning how to use Git. I just wanted to make you think I was a good guesser")
 print("Have a great rest of your day!")
 
