@@ -14,3 +14,4 @@ print("Just kidding, this program is being uploaded for the purpose of learning 
 print("Have a great rest of your day!")
 
 print("Edited to show merge :  -This is what I am changing- This text line is used to show conflict when two people try to make changes to the same line. I want to merge the program from the GUI and terminal!")
+print("Edit:  -This is what I am changing- This *taken out for testing merge * line is used to show conflict when two people try to make changes to the same line. I want to merge the program from the GUI and terminal!")
