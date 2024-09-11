@@ -13,4 +13,4 @@ print("I must've just gotten a luck guess!")
 print("Just kidding, this program is being uploaded for the purpose of learning how to use Git. I just wanted to make you think I was a good guesser")
 print("Have a great rest of your day!")
 
-print("This text line is used to show conflict when two people try to make changes to the same line. I am now editing this line now so I can merge the program from the GUI and terminal!")
+print("This text line is used to show conflict when two people try to make changes to the same line. I am editing this line now so I can merge the program from the GUI and terminal!")
